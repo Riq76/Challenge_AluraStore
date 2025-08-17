@@ -41,8 +41,8 @@ El análisis siguió los siguientes pasos:
    - Calificación promedio
    - Distribución de calificaciones (identificación de calificaciones malas)
    - Costo de envío promedio  
-3. **Visualización** de los resultados mediante gráficos (matplotlib/seaborn).
-4. **Comparación multicriterio** para determinar la tienda con peor desempeño global.
+3. **Visualización** de los resultados mediante gráficos (matplotlib).
+4. **Comparación multicriterio** para determinar la tienda con mejor desempeño global.
 
 ---
 
