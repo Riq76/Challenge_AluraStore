@@ -64,3 +64,13 @@ El análisis siguió los siguientes pasos:
 ### Pasos
 
 1. Clona o descarga los archivos .csv de cada tienda.
+
+## 📄 Informe Final
+
+Se realizaron los siguientes análisis para determinar cual es la mejor tienda para invertir:
+1. Escala de Negocio
+2. Concentración de demanda (riesgo)
+3. Atractivo por categoría
+4. Eficiencia Operacional
+
+Se concluye que la mejor opción para invertir al corto plazo es la **Tienda 1**.
