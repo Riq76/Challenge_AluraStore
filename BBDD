@@ -1,1 +1,10 @@
 BBDD Tiendas formato .csv
+
+# 1. Mover los archivos localmente
+mv tienda_1.csv BBDD/
+
+# 2. Confirmar los cambios con Git
+git add BBDD/tienda_*.csv
+git rm tienda_*.csv
+git commit -m "Mover archivos CSV a carpeta BBDD"
+git push origin main
