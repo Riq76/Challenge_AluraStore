@@ -59,10 +59,8 @@ El análisis siguió los siguientes pasos:
 
 ### Requisitos
 - Python 3.8+
-- Bibliotecas: `pandas`, `matplotlib`, `seaborn` (opcional: `jupyter`)
+- Bibliotecas: `pandas`, `matplotlib`
 
 ### Pasos
 
-1. Clona o descarga este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/Challenge-AluraStore.git
+1. Clona o descarga los archivos .csv de cada tienda.
