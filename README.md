@@ -7,8 +7,6 @@ Este repositorio contiene un análisis comparativo del desempeño de cuatro tien
 - `Tienda_3`  
 - `Tienda_4`  
 
-El objetivo principal es identificar, mediante un enfoque multicriterio, **cuál tienda debería cerrarse** en función de su bajo desempeño general.
-
 ---
 
 ## 📁 Contenido de los datos
