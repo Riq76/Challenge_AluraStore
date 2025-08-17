@@ -49,7 +49,7 @@ El análisis siguió los siguientes pasos:
 ## 🚀 Ejecución
 
 ### Requisitos
-- Python 3.8+
+- Python 3.0+
 - Bibliotecas: `pandas`, `matplotlib`
 
 ### Pasos
