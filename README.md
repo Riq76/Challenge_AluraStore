@@ -13,14 +13,7 @@ El objetivo principal es identificar, mediante un enfoque multicriterio, **cuál
 
 ## 📁 Contenido de los datos
 
-Los datos utilizados se encuentran en cuatro archivos `.csv`, descritos en el notebook de trabajo:
-
-- `tienda_1.csv`
-- `tienda_2.csv`
-- `tienda_3.csv`
-- `tienda_4.csv`
-
-Cada archivo contiene información sobre:
+Los datos utilizados se encuentran en cuatro archivos `.csv`, cada archivo contiene información sobre:
 
 - Productos vendidos  
 - Precios  
